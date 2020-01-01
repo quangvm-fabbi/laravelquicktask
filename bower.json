@@ -1,0 +1,18 @@
+{
+  "name": "laravelquicktask",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Quang <quangvm1998@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/QuangVu11/laravelquicktask",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
